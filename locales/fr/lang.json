@@ -1,0 +1,172 @@
+{
+    "explore": {
+        "explore_greetings_text": "Explorez tous les articles sur notre site",
+        "explore_greetings_subtext": "Il y a une multitude d'articles variés avec de nombreux sujets pour tous les goûts et besoins",
+        "articles_found_default_text": "%count% articles trouvés",
+        "articles_found_with_query_text": "%count% articles trouvés avec la recherche '%query%'",
+        "articles_showed_count_text": "Affichage de %count% sur %total% articles",
+        "articles_see_more_button": "Voir plus"
+    },
+    "common": {
+        "menu": {
+            "home_page_link": "Accueil",
+            "explore_page_link": "Explorer",
+            "about_us_page_link": "À propos de nous",
+            "categories_page_link": "Catégories",
+            "sign_in_button": "Se connecter",
+            "profile_dropdown": {
+                "options": {
+                    "dashboard": "Tableau de bord",
+                    "settings": "Paramètres",
+                    "logout": "Déconnexion"
+                }
+            }
+        },
+        "login": {
+            "login_form_greetings_text": "Ravi de vous revoir !",
+            "login_form_greetings_subtext": "Pas encore inscrit ?",
+            "login_form_sign_up_link": "Créer un compte",
+            "fields": {
+                "username": {
+                    "name": "Nom d'utilisateur",
+                    "input_placeholder": "Entrez votre nom d'utilisateur"
+                },
+                "password": {
+                    "name": "Mot de passe",
+                    "input_placeholder": "Entrez votre mot de passe"
+                }
+            },
+            "errors": {
+                "username_field_incorrect": "Veuillez remplir votre nom d'utilisateur",
+                "password_field_incorrect": "Veuillez remplir votre mot de passe",
+                "user_invalid": "Utilisateur invalide !",
+                "unknown_error": "Erreur ! Veuillez réessayer plus tard"
+            },
+            "login_form_sign_in_button": "Se connecter",
+            "drawer": {
+                "name": "Autorisation",
+                "close_tooltip": "Fermer le menu d'autorisation"
+            }
+        },
+        "register": {
+            "register_form_greetings_text": "Créez votre compte",
+            "register_form_greetings_subtext": "Rejoignez une vaste communauté de personnes toujours à jour",
+            "register_form_sign_up_link": "J'ai déjà un compte",
+            "fields": {
+                "firstName": {
+                    "name": "Prénom",
+                    "input_placeholder": "Jack"
+                },
+                "lastName": {
+                    "name": "Nom",
+                    "input_placeholder": "Aubert"
+                },
+                "email": {
+                    "name": "Email",
+                    "input_placeholder": "example@mail.com"
+                },
+                "username": {
+                    "name": "Nom d'utilisateur",
+                    "input_placeholder": "Entrez votre nom d'utilisateur"
+                },
+                "password": {
+                    "name": "Mot de passe",
+                    "input_placeholder": "Entrez votre mot de passe"
+                }
+            },
+            "errors": {
+                "first_name_field_incorrect": "Veuillez renseigner votre prénom",
+                "last_name_field_incorrect": "Veuillez renseigner votre nom",
+                "email_field_incorrect": "Veuillez renseigner votre email",
+                "username_field_incorrect": "Veuillez renseigner votre nom d'utilisateur",
+                "password_field_incorrect": "Veuillez renseigner votre mot de passe",
+                "user_already_exists": "L'utilisateur existe déjà!",
+                "unknown_error": "Erreur ! Veuillez réessayer plus tard"
+            },
+            "register_form_get_started_button": "Commencer",
+            "drawer": {
+                "name": "Inscription",
+                "close_tooltip": "Fermer le menu d'inscription"
+            }
+        },
+        "registerVerifyCode": {
+            "registerVerifyCode_form_greetings_text": "Vérifiez votre e-mail",
+            "registerVerifyCode_form_greetings_subtext": "Un code de vérification à 6 chiffres a été envoyé à votre e-mail",
+            "fields": {
+                "code": {
+                    "name": "Code de vérification"
+                }
+            },
+            "errors": {
+                "code_invalid": "Le code de vérification est invalide !",
+                "unknown_error": "Erreur ! Veuillez réessayer plus tard"
+            },
+            "register_form_get_started_button": "Vérifier",
+            "drawer": {
+                "name": "Code de vérification d'inscription",
+                "close_tooltip": "Fermer le menu de vérification"
+            }
+        },
+        "footer": {
+            "change_language_button": "Changer la langue",
+            "slogan": "Bénéfice élevé, faible impact",
+            "sections": {
+                "menu": {
+                    "name": "Menu",
+                    "options": {
+                        "home": "Accueil",
+                        "explore": "Explorer",
+                        "about_us": "À propos de nous",
+                        "categories": "Catégories"
+                    }
+                },
+                "policy_and_conditions": {
+                    "name": "Politique et conditions",
+                    "options": {
+                        "privacy_policy": "Politique de confidentialité",
+                        "terms_of_service": "Conditions d'utilisation",
+                        "cookie_policy": "Politique de cookies",
+                        "disclaimer": "Avertissement"
+                    }
+                },
+                "additionally": {
+                    "name": "En supplément",
+                    "options": {
+                      "faq": "FAQ",
+                      "advertising": "Publicité",
+                      "sitemap": "Plan du site"
+                    }
+                }
+            }
+        },
+        "search": {
+            "drawer": {
+                "name": "Rechercher des articles",
+                "close_tooltip": "Fermer la recherche"
+            },
+            "search_placeholder": "Rechercher par nom",
+            "recent_queries_text": "Recherches récentes",
+            "clear_history_button": "Effacer l'historique",
+            "see_more_hint": "Appuyez sur %enter% lors de la recherche pour voir plus de résultats"
+        },
+        "filters": {
+            "drawer": {
+                "name": "Filtres",
+                "close_tooltip": "Fermer filtres",
+                "open_drawer_button": "Ouvrir filtres"
+            },
+            "sort_by": {
+                "name": "Trier par",
+                "options": {
+                    "ascending": "Croissant",
+                    "descending": "Décroissant",
+                    "alphabetically": "Alphabétiquement"
+                }
+            },
+            "categories": {
+                "name": "Catégories"
+            },
+            "search_placeholder": "Rechercher dans %name%"
+        }
+    }
+}

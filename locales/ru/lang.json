@@ -1,0 +1,173 @@
+{
+    "explore": {
+        "explore_greetings_text": "Читайте любые статьи на нашем сайте",
+        "explore_greetings_subtext": "Здесь собрано множество статей на различные темы на любой вкус",
+        "articles_found_default_text": "Найдено %count% статей",
+        "articles_found_with_query_text": "Найдено %count% статей по запросу '%query%'",
+        "articles_showed_count_text": "%count% из %total% статей показано",
+        "articles_see_more_button": "Смотреть ещё",
+        "filter_sort_by_name": "Сортировать по"
+    },
+    "common": {
+        "menu": {
+            "home_page_link": "Главная",
+            "explore_page_link": "Статьи",
+            "about_us_page_link": "О нас",
+            "categories_page_link": "Категории",
+            "sign_in_button": "Войти",
+            "profile_dropdown": {
+                "options": {
+                    "dashboard": "Панель управления",
+                    "settings": "Настройки",
+                    "logout": "Выйти"
+                }
+            }
+        },
+        "login": {
+            "login_form_greetings_text": "Рады видеть Вас снова!",
+            "login_form_greetings_subtext": "Ещё не зарегистрированы?",
+            "login_form_sign_up_link": "Создать аккаунт",
+            "fields": {
+                "username": {
+                    "name": "Имя пользователя",
+                    "input_placeholder": "Введите имя пользователя"
+                },
+                "password": {
+                    "name": "Пароль",
+                    "input_placeholder": "Введите пароль"
+                }
+            },
+            "errors": {
+                "username_field_incorrect": "Введите ваше имя пользователя",
+                "password_field_incorrect": "Введите ваш пароль",
+                "user_invalid": "Неккоректные данные пользователя!",
+                "unknown_error": "Ошибка! Пожалуйста, повторите попытку позже"
+            },
+            "login_form_sign_in_button": "Войти",
+            "drawer": {
+                "name": "Авторизация",
+                "close_tooltip": "Закрыть меню авторизации"
+            }
+        },
+        "register": {
+            "register_form_greetings_text": "Создать аккаунт",
+            "register_form_greetings_subtext": "Станьте частью большего сообщества и будьте всегда в курсе событий",
+            "register_form_sign_up_link": "У меня уже есть аккаунт",
+            "fields": {
+                "firstName": {
+                    "name": "Имя",
+                    "input_placeholder": "Жак"
+                },
+                "lastName": {
+                    "name": "Фамилия",
+                    "input_placeholder": "Оберт"
+                },
+                "email": {
+                    "name": "Почта",
+                    "input_placeholder": "example@mail.com"
+                },
+                "username": {
+                    "name": "Имя пользователя",
+                    "input_placeholder": "Введите имя пользователя"
+                },
+                "password": {
+                    "name": "Пароль",
+                    "input_placeholder": "Введите пароль"
+                }
+            },
+            "errors": {
+                "first_name_field_incorrect": "Введите ваше имя",
+                "last_name_field_incorrect": "Введите вашу фамилию",
+                "email_field_incorrect": "Введите вашу почту",
+                "username_field_incorrect": "Введите ваше имя пользователя",
+                "password_field_incorrect": "Введите ваш пароль",
+                "user_already_exists": "Пользователь уже существует!",
+                "unknown_error": "Ошибка! Пожалуйста, повторите попытку позже"
+            },
+            "register_form_get_started_button": "Начать",
+            "drawer": {
+                "name": "Регистрация",
+                "close_tooltip": "Закрыть меню регистрации"
+            }
+        },
+        "registerVerifyCode": {
+            "registerVerifyCode_form_greetings_text": "Подтвердите почту",
+            "registerVerifyCode_form_greetings_subtext": "Код из 6 символов был отправлен на вашу почту",
+            "fields": {
+                "code": {
+                    "name": "Код подтверждения"
+                }
+            },
+            "errors": {
+                "code_invalid": "Неправильный код!",
+                "unknown_error": "Ошибка! Пожалуйста, повторите попытку позже"
+            },
+            "register_form_get_started_button": "Подтвердить",
+            "drawer": {
+                "name": "Подтверждение почты",
+                "close_tooltip": "Закрыть меню подтверждения почты"
+            }
+        },
+        "footer": {
+            "change_language_button": "Сменить язык",
+            "slogan": "Максимум пользы, минимум воздействия",
+            "sections": {
+                "menu": {
+                    "name": "Меню",
+                    "options": {
+                        "home": "Главная",
+                        "explore": "Статьи",
+                        "about_us": "О нас",
+                        "categories": "Категории"
+                    }
+                },
+                "policy_and_conditions": {
+                    "name": "Политика и условия",
+                    "options": {
+                        "privacy_policy": "Политика конфиденциальности",
+                        "terms_of_service": "Условия обслуживания",
+                        "cookie_policy": "Политика использования файлов cookie",
+                        "disclaimer": "Дисклеймер"
+                    }
+                },
+                "additionally": {
+                    "name": "Дополнительно",
+                    "options": {
+                        "faq": "FAQ",
+                        "advertising": "Реклама",
+                        "sitemap": "Карта сайта"
+                    }
+                }
+            }
+        },
+        "search": {
+            "drawer": {
+                "name": "Искать статьи",
+                "close_tooltip": "Закрыть поиск"
+            },
+            "search_placeholder": "Искать по имени",
+            "recent_queries_text": "Недавние запросы",
+            "clear_history_button": "Очистить историю",
+            "see_more_hint": "Нажмите %enter% пока вводите запрос чтобы просмотреть все статьи"
+        },
+        "filters": {
+            "drawer": {
+                "name": "Фильтры",
+                "close_tooltip": "Закрыть фильтры",
+                "open_drawer_button": "Открыть фильтры"
+            },
+            "sort_by": {
+                "name": "Сортировать по",
+                "options": {
+                    "ascending": "По возрастанию",
+                    "descending": "По убыванию",
+                    "alphabetically": "По алфавиту"
+                }
+            },
+            "categories": {
+                "name": "Категории"
+            },
+            "search_placeholder": "Искать в %name%"
+        }
+    }
+}

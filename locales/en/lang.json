@@ -1,0 +1,172 @@
+{
+    "explore": {
+        "explore_greetings_text": "Explore all articles on our website",
+        "explore_greetings_subtext": "There are a plenty of various articles in there with lots of different categories for every taste and need",
+        "articles_found_default_text": "%count% articles found",
+        "articles_found_with_query_text": "%count% articles found with '%query%' query",
+        "articles_showed_count_text": "Showing %count% of %total% articles",
+        "articles_see_more_button": "See more"
+    },
+    "common": {
+        "menu": {
+            "home_page_link": "Home",
+            "explore_page_link": "Explore",
+            "about_us_page_link": "About us",
+            "categories_page_link": "Categories",
+            "sign_in_button": "Sign in",
+            "profile_dropdown": {
+                "options": {
+                    "dashboard": "Dashboard",
+                    "settings": "Settings",
+                    "logout": "Logout"
+                }
+            }
+        },
+        "login": {
+            "login_form_greetings_text": "Nice to see you again!",
+            "login_form_greetings_subtext": "Have not registered yet?",
+            "login_form_sign_up_link": "Create an account",
+            "fields": {
+                "username": {
+                    "name": "Username",
+                    "input_placeholder": "Enter your username"
+                },
+                "password": {
+                    "name": "Password",
+                    "input_placeholder": "Enter your password"
+                }
+            },
+            "errors": {
+                "username_field_incorrect": "Please fill out your username",
+                "password_field_incorrect": "Please fill out your password",
+                "user_invalid": "User is invalid!",
+                "unknown_error": "Error! Please try again some later"
+            },
+            "login_form_sign_in_button": "Sign in",
+            "drawer": {
+                "name": "Authorization",
+                "close_tooltip": "Close authorization menu"
+            }
+        },
+        "register": {
+            "register_form_greetings_text": "Create your account",
+            "register_form_greetings_subtext": "Become a part of a huge community of people who are always up-to-date",
+            "register_form_sign_up_link": "I already have an account",
+            "fields": {
+                "firstName": {
+                    "name": "First name",
+                    "input_placeholder": "Jack"
+                },
+                "lastName": {
+                    "name": "Last name",
+                    "input_placeholder": "Aubert"
+                },
+                "email": {
+                    "name": "Email",
+                    "input_placeholder": "example@mail.com"
+                },
+                "username": {
+                    "name": "Username",
+                    "input_placeholder": "Enter your username"
+                },
+                "password": {
+                    "name": "Password",
+                    "input_placeholder": "Enter your password"
+                }
+            },
+            "errors": {
+                "first_name_field_incorrect": "Please fill out your first name",
+                "last_name_field_incorrect": "Please fill out your last name",
+                "email_field_incorrect": "Please fill out your email",
+                "username_field_incorrect": "Please fill out your username",
+                "password_field_incorrect": "Please fill out your password",
+                "user_already_exists": "User already exists!",
+                "unknown_error": "Error! Please try again some later"
+            },
+            "register_form_get_started_button": "Get started",
+            "drawer": {
+                "name": "Registration",
+                "close_tooltip": "Close registration menu"
+            }
+        },
+        "registerVerifyCode": {
+            "registerVerifyCode_form_greetings_text": "Verify your email",
+            "registerVerifyCode_form_greetings_subtext": "A 6-digit verification code has been sent to your email",
+            "fields": {
+                "code": {
+                    "name": "Verification code"
+                }
+            },
+            "errors": {
+                "code_invalid": "The verification code is invalid!",
+                "unknown_error": "Error! Please try again some later"
+            },
+            "register_form_get_started_button": "Verify",
+            "drawer": {
+                "name": "Registration verifying code",
+                "close_tooltip": "Close verifying code menu"
+            }
+        },
+        "footer": {
+            "change_language_button": "Change language",
+            "slogan": "High benefit, low impact",
+            "sections": {
+                "menu": {
+                    "name": "Menu",
+                    "options": {
+                        "home": "Home",
+                        "explore": "Explore",
+                        "about_us": "About us",
+                        "categories": "Categories"
+                    }
+                },
+                "policy_and_conditions": {
+                    "name": "Policy and conditions",
+                    "options": {
+                        "privacy_policy": "Privacy Policy",
+                        "terms_of_service": "Terms of Service",
+                        "cookie_policy": "Cookie Policy",
+                        "disclaimer": "Disclaimer"
+                    }
+                },
+                "additionally": {
+                    "name": "Additionally",
+                    "options": {
+                        "faq": "FAQ",
+                        "advertising": "Advertising",
+                        "sitemap": "Cookie Policy"
+                    }
+                }
+            }
+        },
+        "search": {
+            "drawer": {
+                "name": "Search articles",
+                "close_tooltip": "Close search"
+            },
+            "search_placeholder": "Search by name",
+            "recent_queries_text": "Recent queries",
+            "clear_history_button": "Clear the history",
+            "see_more_hint": "Click %enter% while searching to see more"
+        },
+        "filters": {
+            "drawer": {
+                "name": "Filters",
+                "close_tooltip": "Close filters",
+                "open_drawer_button": "Open filters"
+            },
+            "sort_by": {
+                "name": "Sort by",
+                "options": {
+                    "ascending": "Ascending",
+                    "descending": "Descending",
+                    "alphabetically": "Alphabetically"
+                }
+            },
+            "categories": {
+                "name": "Categories"
+            },
+            "search_placeholder": "Search in %name%"
+        }
+    }
+}
