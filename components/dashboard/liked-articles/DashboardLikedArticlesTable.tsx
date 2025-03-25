@@ -42,7 +42,8 @@ export const DashboardLikedArticlesTable: React.FC<DashboardLikedArticlesTablePr
                 removeWrapper 
                 aria-label="Table with images"
                 classNames={{
-                    th: 'rounded-none font-interTight font-semibold text-sm text-primaryText bg-emphasizingColor2'
+                    th: 'rounded-none font-interTight font-semibold text-sm text-primaryText bg-emphasizingColor2',
+                    emptyWrapper: 'font-interTight font-semibold text-secondaryText'
                 }}
             >
                 <TableHeader>

@@ -98,7 +98,8 @@ export const DashboardUserArticlesTable: React.FC<DashboardUserArticlesTableProp
                 removeWrapper 
                 aria-label="Table with images"
                 classNames={{
-                    th: 'rounded-none font-interTight font-semibold text-sm text-primaryText bg-emphasizingColor2'
+                    th: 'rounded-none font-interTight font-semibold text-sm text-primaryText bg-emphasizingColor2',
+                    emptyWrapper: 'font-interTight font-semibold text-secondaryText'
                 }}
                 selectionMode="multiple"
                 selectedKeys={selectedKeys}
